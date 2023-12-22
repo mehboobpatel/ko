@@ -106,3 +106,4 @@ kubectl create secret generic quickstart-es-elastic-user --from-literal=elastic=
 * cluster to story you have to manualy apply the file
 
 
+
